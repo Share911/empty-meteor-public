@@ -1,0 +1,1 @@
+This is an empty meteor project for use in demos [here](https://github.com/Share911/meteor-cordova-android-aws-examples).
